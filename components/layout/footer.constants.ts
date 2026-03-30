@@ -1,0 +1,1 @@
+export const FOOTER_AUTHOR = 'an iOS Developer';
